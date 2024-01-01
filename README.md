@@ -15,7 +15,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/prastianhd/discord-up
+git clone https://github.com/Alan553/discord-up
 ```
 ```
 pkg install python
